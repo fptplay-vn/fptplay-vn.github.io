@@ -1,5 +1,7 @@
 #EXTM3U 23/10/2021
 
+#EXTINF:-1 tvg-logo="https://fptplay-vn.github.io/cache/dejong27-10-2021_10g23-06.jpg" group-title="Thể thao", De Jong, Pedri đắt giá nhất La Liga - UEFA Champions League
+https://fptplay-vn.github.io/fptplay.vn/xem-video/de-jong-pedri-dat-gia-nhat-la-liga-6178c61f2089bd011000dd3b/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://fptplay-vn.github.io/cache/bantinbongdaviet26-10-2021_18g26-54.jpg" group-title="Thể thao", U23 Việt Nam làm quen sân, Công Phượng hội quân muộn
 https://fptplay-vn.github.io/fptplay.vn/xem-video/u23-viet-nam-lam-quen-san-cong-phuong-hoi-quan-muon-6177e64a2089bd003100dd3d/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://fptplay-vn.github.io/cache/sosa26-10-2021_15g08-52.jpg" group-title="Thể thao",Tương lai u ám chờ Ole Solskjaer - UEFA Champions League

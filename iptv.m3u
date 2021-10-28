@@ -1,12 +1,14 @@
 #EXTM3U 23/10/2021
 
+#EXTINF:-1 tvg-logo="https://fptplay-vn.github.io/cache/highlights-prelims28-10-2021_09g00-10.jpg" group-title="Thể thao", Highlights PFL | Prelims - PFL Championship
+https://fptplay-vn.github.io/fptplay.vn/xem-video/highlights-pfl-prelims-617a04dd2089bd0266003385/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://fptplay-vn.github.io/cache/panathinaikos-opap-athens-anadolu-efes-istanbul-highlights_el28-10-2021_04g02-50.jpg" group-title="Thể thao", Panathinaikos OPAP Athens - Anadolu Efes Istanbul | Ngày bùng nổ của Daryl Macon - Euroleague Final Score Round 6
 https://fptplay-vn.github.io/fptplay.vn/xem-video/panathinaikos-opap-athens-anadolu-efes-istanbul-ngay-bung-no-cua-daryl-macon-6179bea22089bd023a003391/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://fptplay-vn.github.io/cache/chuyen-co-tich-vi-dai27-10-2021_22g04-00.jpg" group-title="Thể thao", Clough. Nottingham Forest và chuyện cổ tích vĩ đại nhất châu Âu - Câu chuyện thể thao
 https://fptplay-vn.github.io/fptplay.vn/xem-video/clough-nottingham-forest-va-chuyen-co-tich-vi-dai-nhat-chau-au--61796a792089bd0202003386/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://fptplay-vn.github.io/cache/diemtin27-10-2021_13g41-35.jpg" group-title="Thể thao", Ronaldo vượt Messi. Chelsea tổn thất nặng nề - Điểm tin UEFA Champions League
 https://fptplay-vn.github.io/fptplay.vn/xem-video/ronaldo-vuot-messi-chelsea-ton-that-nang-ne-6178f4c12089bd014500dd3b/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://fptplay-vn.github.io/cache/dejong27-10-2021_10g23-06.jpg" group-title="Thể thao", De Jong, Pedri đắt giá nhất La Liga - UEFA Champions League
+#EXTINF:-1 tvg-logo="https://fptplay-vn.github.io/cache/dejong27-10-2021_10g23-06.jpg" group-title="Thể thao", De Jong. Pedri đắt giá nhất La Liga - UEFA Champions League
 https://fptplay-vn.github.io/fptplay.vn/xem-video/de-jong-pedri-dat-gia-nhat-la-liga-6178c61f2089bd011000dd3b/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://fptplay-vn.github.io/cache/bantinbongdaviet26-10-2021_18g26-54.jpg" group-title="Thể thao", U23 Việt Nam làm quen sân. Công Phượng hội quân muộn
 https://fptplay-vn.github.io/fptplay.vn/xem-video/u23-viet-nam-lam-quen-san-cong-phuong-hoi-quan-muon-6177e64a2089bd003100dd3d/chunklist.m3u8
